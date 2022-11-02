@@ -11,9 +11,7 @@ export default function App() {
         </h1>
         <footer>
           The project was coded by Olena Kravchenko and is open-sourced{" "}
-          <a href="https://github.com/OlenaKravchenko2022" target="_blank">
-            on GitHub
-          </a>
+          <a href="https://github.com/OlenaKravchenko2022">on GitHub</a>
         </footer>
       </div>
     </div>
